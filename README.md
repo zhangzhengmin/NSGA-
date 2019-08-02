@@ -1,2 +1,2 @@
 # NSGA-
-NSGAⅡ基础代码
+NSGAⅡ与MOEAD基础代码
